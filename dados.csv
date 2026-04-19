@@ -1,0 +1,5 @@
+Data,Produto,Categoria,Quantidade,Preco,Regiao,Receita
+01/01/2025,Camisa,Roupas,2,50,Sudeste,100
+02/01/2025,Calça,Roupas,1,120,Sul,120
+03/01/2025,Tênis,Calçados,1,250,Sudeste,250
+04/01/2025,Bermuda,Roupas,3,70,Nordeste,210
